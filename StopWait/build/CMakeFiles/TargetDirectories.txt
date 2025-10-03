@@ -1,0 +1,3 @@
+/home/ysy/StopWait-GBN-SR/StopWait/build/CMakeFiles/stop_wait.dir
+/home/ysy/StopWait-GBN-SR/StopWait/build/CMakeFiles/edit_cache.dir
+/home/ysy/StopWait-GBN-SR/StopWait/build/CMakeFiles/rebuild_cache.dir
